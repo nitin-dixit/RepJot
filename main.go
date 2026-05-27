@@ -8,8 +8,8 @@ import (
 
 	_ "github.com/joho/godotenv/autoload"
 
-	"github.com/nitin-dixit/goProject/internal/app"
-	"github.com/nitin-dixit/goProject/internal/routes"
+	"github.com/nitin-dixit/RepJot/internal/app"
+	"github.com/nitin-dixit/RepJot/internal/routes"
 )
 
 func main() {

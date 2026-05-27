@@ -1,4 +1,4 @@
-module github.com/nitin-dixit/goProject
+module github.com/nitin-dixit/RepJot
 
 go 1.26.2
 

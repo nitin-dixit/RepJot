@@ -7,8 +7,8 @@ import (
 	"net/http"
 	"regexp"
 
-	"github.com/nitin-dixit/goProject/internal/store"
-	"github.com/nitin-dixit/goProject/internal/utils"
+	"github.com/nitin-dixit/RepJot/internal/store"
+	"github.com/nitin-dixit/RepJot/internal/utils"
 )
 
 type registerUserRequest struct {

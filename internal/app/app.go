@@ -7,10 +7,10 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/nitin-dixit/goProject/internal/api"
-	"github.com/nitin-dixit/goProject/internal/middleware"
-	"github.com/nitin-dixit/goProject/internal/store"
-	"github.com/nitin-dixit/goProject/migrations"
+	"github.com/nitin-dixit/RepJot/internal/api"
+	"github.com/nitin-dixit/RepJot/internal/middleware"
+	"github.com/nitin-dixit/RepJot/internal/store"
+	"github.com/nitin-dixit/RepJot/migrations"
 )
 
 type Application struct {

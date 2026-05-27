@@ -6,9 +6,9 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/nitin-dixit/goProject/internal/store"
-	"github.com/nitin-dixit/goProject/internal/tokens"
-	"github.com/nitin-dixit/goProject/internal/utils"
+	"github.com/nitin-dixit/RepJot/internal/store"
+	"github.com/nitin-dixit/RepJot/internal/tokens"
+	"github.com/nitin-dixit/RepJot/internal/utils"
 )
 
 type TokenHandler struct {

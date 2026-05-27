@@ -4,7 +4,7 @@ import (
 	"database/sql"
 	"time"
 
-	"github.com/nitin-dixit/goProject/internal/tokens"
+	"github.com/nitin-dixit/RepJot/internal/tokens"
 )
 
 type PostgresTokenStore struct {

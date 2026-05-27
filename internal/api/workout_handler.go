@@ -9,9 +9,9 @@ import (
 	"strconv"
 
 	"github.com/go-chi/chi/v5"
-	"github.com/nitin-dixit/goProject/internal/middleware"
-	"github.com/nitin-dixit/goProject/internal/store"
-	"github.com/nitin-dixit/goProject/internal/utils"
+	"github.com/nitin-dixit/RepJot/internal/middleware"
+	"github.com/nitin-dixit/RepJot/internal/store"
+	"github.com/nitin-dixit/RepJot/internal/utils"
 )
 
 type WorkoutHandler struct {
