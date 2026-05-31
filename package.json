@@ -11,6 +11,7 @@
     "typescript": "^5"
   },
   "scripts": {
-    "prepare": "husky"
+    "prepare": "husky",
+    "test": "echo \"no JS/TS tests configured\""
   }
 }
